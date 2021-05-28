@@ -1,0 +1,10 @@
+{
+  "name": "flow",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
